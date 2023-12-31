@@ -15,8 +15,8 @@ body {
 
 .birthday-card  {
   position: relative;
-  width: 150px;
-  height: 197px;
+  width: 160px;
+  height: 207px;
   margin-bottom: 50px;
   border: 10px solid #e06e1d;
   -webkit-box-shadow: inset 10px 0px 15px 0px rgba(0, 0, 0, 0.1);
