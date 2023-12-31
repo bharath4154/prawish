@@ -8,8 +8,7 @@ body {
 }
 #container{
   display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+  float:right;
   align-items: center;
   margin-top: 100px;
 }
