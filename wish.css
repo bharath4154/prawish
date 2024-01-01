@@ -13,6 +13,10 @@ body {
   align-items: center;
   margin-top: 100px;
 }
+audio{
+        width: 170px;
+        
+}
 
 .birthday-card  {
   position: relative;
