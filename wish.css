@@ -17,6 +17,11 @@ audio{
         width: 170px;
         
 }
+.info{
+        font-family: 'Josefin Sans', sans-serif;
+        color: #fbe1cc;
+        flex-wrap: wrap;
+}
 
 .birthday-card  {
   position: relative;
